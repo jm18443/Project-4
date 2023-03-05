@@ -33,7 +33,7 @@ Analytics/Predictions of this project execution
 
 4- Analyze the data to see if BMI and DiffWalking are correlated. Are they independent variables or is there a relationship between the BMI and difficulty walking for people with/without heart disease?
 
-5. Impact of Behavioral risk factors to diseases - heart disease
+5- Impact of Behavioral risk factors to diseases - heart disease
 
 
 
