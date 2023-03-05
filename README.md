@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/asasherwyn/behavioral-risk-factor-surveillance-s
 
 Analytics/Predictions of this project execution
 
- Train and test the data to make below predictions.
+ Train and test the data to make below predictions:
 
 1- Does heart disease affect physical or mental health more?
 
